@@ -22,5 +22,5 @@
 5. Once the transmission is complete, the stored message can be retrieved and sent back to the PC.
 6. The Python script will display the received message along with the transmission speed.
 
-**Contribution Guidelines**
+**Contribution Guidelines**:
 Contributions to this project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
